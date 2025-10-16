@@ -37,7 +37,7 @@ description: "This page was built using the Blowfish theme for Hugo."
 -->
   </header>
   <section class="prose dark:prose-invert">
-    <p>Hi, I’m Longxi. I’m studying mechanical engineering at MIT. I’m building robots that will change the world. If
+    <p>Hi, I’m Longxi. I’m Law student from WUSTL. If
       you’d like to chat, please reach out to me at <a href="mailto:l.longxi@wustl.edu">l.longxi@wustl.edu</a>.</p>
   </section>
 </article>

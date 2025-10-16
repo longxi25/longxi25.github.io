@@ -1,6 +1,6 @@
 ---
 title: "Recipe Template3"
-date: 1987-12-22
+date: 2024-12-22
 draft: false
 description: "Template for creating a recipe for Blowfish theme"
 tags: ["template"]
